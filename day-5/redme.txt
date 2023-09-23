@@ -1,0 +1,7 @@
+solved  10 + basic question liske 
+1. factorial 
+2. pattern print 
+3. fibo naci series
+4. prime number
+5. resvrse number 
+ and more othor
